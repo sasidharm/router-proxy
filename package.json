@@ -1,0 +1,17 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "Payload based Routing",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-http-proxy": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
